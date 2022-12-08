@@ -46,6 +46,10 @@ void robotPrintAscii(void)
 	printf("   /|____|\\ \n");
 	printBlanks(10, round);
 	printf("    L    L   \n");
+<<<<<<< HEAD
+=======
+	printBlanks(10, round);
+>>>>>>> d61048cdc8c7aceb9156170132343a12a08ff79d
 	printf("    [*_*]   \n");
 	printBlanks(10, round);
 	printf("   /|___|\\ \n");
